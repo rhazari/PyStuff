@@ -1,0 +1,50 @@
+[ui_app]<10/8 15:56:15.206><ha_functions.js:785> get_msg_resp_failure() - http status code: 0
+[ui_app]<10/8 15:56:15.206><ha_functions.js:790> get_msg_resp_failure() - since message box still open, trying to call getMessage() again.
+[ui_app]<10/8 15:56:15.206><ha_functions.js:767> get_message() - get_message: url = http://localhost:8080/ha_local_svr
+/getMessage?regId=RID0285215098
+[ui_app]<10/8 15:56:15.206><ha_functions.js:7660> onFailure() - No download flag file found, checking again in 60 seconds
+[ui_app]<10/8 15:56:30.218><ha_functions.js:785> get_msg_resp_failure() - http status code: 0
+[ui_app]<10/8 15:56:30.218><ha_functions.js:790> get_msg_resp_failure() - since message box still open, trying to call getMessage() again.
+[ui_app]<10/8 15:56:30.218><ha_functions.js:767> get_message() - get_message: url = http://localhost:8080/ha_local_svr
+/getMessage?regId=RID0285215098
+[ui_app]<10/8 15:56:45.237><ha_functions.js:785> get_msg_resp_failure() - http status code: 0
+[ui_app]<10/8 15:56:45.237><ha_functions.js:790> get_msg_resp_failure() - since message box still open, trying to call getMessage() again.
+[ui_app]<10/8 15:56:45.237><ha_functions.js:767> get_message() - get_message: url = http://localhost:8080/ha_local_svr
+/getMessage?regId=RID0285215098
+[ui_app]<10/8 15:57:00.256><ha_functions.js:785> get_msg_resp_failure() - http status code: 0
+[ui_app]<10/8 15:57:00.256><ha_functions.js:790> get_msg_resp_failure() - since message box still open, trying to call getMessage() again.
+[ui_app]<10/8 15:57:00.256><ha_functions.js:767> get_message() - get_message: url = http://localhost:8080/ha_local_svr
+/getMessage?regId=RID0285215098
+[ui_app]<10/8 15:57:15.279><ha_functions.js:785> get_msg_resp_failure() - http status code: 0
+[ui_app]<10/8 15:57:15.279><ha_functions.js:790> get_msg_resp_failure() - since message box still open, trying to call getMessage() again.
+[ui_app]<10/8 15:57:15.279><ha_functions.js:767> get_message() - get_message: url = http://localhost:8080/ha_local_svr
+/getMessage?regId=RID0285215098
+[ui_app]<10/8 15:57:15.279><ha_functions.js:7660> onFailure() - No download flag file found, checking again in 60 seconds
+[ui_app]<10/8 15:57:30.290><ha_functions.js:785> get_msg_resp_failure() - http status code: 0
+[ui_app]<10/8 15:57:30.290><ha_functions.js:790> get_msg_resp_failure() - since message box still open, trying to call getMessage() again.
+[ui_app]<10/8 15:57:30.291><ha_functions.js:767> get_message() - get_message: url = http://localhost:8080/ha_local_svr
+/getMessage?regId=RID0285215098
+[ui_app]<10/8 15:57:45.308><ha_functions.js:785> get_msg_resp_failure() - http status code: 0
+[ui_app]<10/8 15:57:45.308><ha_functions.js:790> get_msg_resp_failure() - since message box still open, trying to call getMessage() again.
+[ui_app]<10/8 15:57:45.308><ha_functions.js:767> get_message() - get_message: url = http://localhost:8080/ha_local_svr
+/getMessage?regId=RID0285215098
+[ui_app]<10/8 15:58:00.325><ha_functions.js:785> get_msg_resp_failure() - http status code: 0
+[ui_app]<10/8 15:58:00.325><ha_functions.js:790> get_msg_resp_failure() - since message box still open, trying to call getMessage() again.
+[ui_app]<10/8 15:58:00.325><ha_functions.js:767> get_message() - get_message: url = http://localhost:8080/ha_local_svr
+/getMessage?regId=RID0285215098
+[ui_app]<10/8 15:58:15.345><ha_functions.js:785> get_msg_resp_failure() - http status code: 0
+[ui_app]<10/8 15:58:15.345><ha_functions.js:790> get_msg_resp_failure() - since message box still open, trying to call getMessage() again.
+[ui_app]<10/8 15:58:15.345><ha_functions.js:767> get_message() - get_message: url = http://localhost:8080/ha_local_svr
+/getMessage?regId=RID0285215098
+[ui_app]<10/8 15:58:15.348><ha_functions.js:7660> onFailure() - No download flag file found, checking again in 60 seconds
+[ui_app]<10/8 15:58:30.357><ha_functions.js:785> get_msg_resp_failure() - http status code: 0
+[ui_app]<10/8 15:58:30.357><ha_functions.js:790> get_msg_resp_failure() - since message box still open, trying to call getMessage() again.
+[ui_app]<10/8 15:58:30.357><ha_functions.js:767> get_message() - get_message: url = http://localhost:8080/ha_local_svr
+/getMessage?regId=RID0285215098
+[ui_app]<10/8 15:58:45.376><ha_functions.js:785> get_msg_resp_failure() - http status code: 0
+[ui_app]<10/8 15:58:45.376><ha_functions.js:790> get_msg_resp_failure() - since message box still open, trying to call getMessage() again.
+[ui_app]<10/8 15:58:45.376><ha_functions.js:767> get_message() - get_message: url = http://localhost:8080/ha_local_svr
+/getMessage?regId=RID0285215098
+[ui_app]<10/8 15:59:00.393><ha_functions.js:785> get_msg_resp_failure() - http status code: 0
+[ui_app]<10/8 15:59:00.393><ha_functions.js:790> get_msg_resp_failure() - since message box still open, trying to call getMessage() again.
+[ui_app]<10/8 15:59:00.393><ha_functions.js:767> get_message() - get_message: url = http://localhost:8080/ha_local_svr
